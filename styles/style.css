@@ -1,0 +1,8 @@
+.rotate-image {
+    display: inline-block;
+    transition: transform 1s;
+}
+  
+.rotate-image:hover {
+    transform: rotateY(180deg);
+}
